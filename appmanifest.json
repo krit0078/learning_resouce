@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Learning_Resource",
-	"short_name": "Learning_Resource",
+	"name": "แหล่งเรียนรู้",
+	"short_name": "แหล่งเรียนรู้",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
