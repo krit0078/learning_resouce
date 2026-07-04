@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1782655819,
+	"version": 1783128812,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -79,6 +79,9 @@
 		"images/popp-sheet0.png",
 		"images/popp-sheet1.png",
 		"images/sprite-sheet0.png",
+		"images/btn-sheet0.png",
+		"images/btn-sheet1.png",
+		"images/homebtn-sheet0.png",
 		"media/calm.ogg",
 		"media/chatty.ogg",
 		"media/distinguished.ogg",
