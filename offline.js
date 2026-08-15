@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1786155671,
+	"version": 1786774116,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -332,6 +332,7 @@
 		"media/m121_5.ogg",
 		"media/m121_6.ogg",
 		"media/m121_7.ogg",
+		"media/empathetic.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
